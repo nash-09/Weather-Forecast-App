@@ -31,7 +31,7 @@ A responsive weather application that fetches real-time weather data using a pub
 
 ## 📸 Preview
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](screenshot.png.png)
 
 ---
 
